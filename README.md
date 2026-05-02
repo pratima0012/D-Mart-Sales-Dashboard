@@ -1,4 +1,6 @@
 # 🛒 D-Mart Sales Dashboard (Power BI)
+<img width="907" height="503" alt="image" src="https://github.com/user-attachments/assets/e7c4cd42-623e-4eb2-8edd-685c4111eb77" />
+
 
 ## 📌 Project Overview
 This project focuses on analyzing D-Mart sales data using Power BI. The dashboard provides valuable insights into sales performance, customer behavior, and product trends to support data-driven decision-making.
