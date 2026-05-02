@@ -37,11 +37,6 @@ This project focuses on analyzing D-Mart sales data using Power BI. The dashboar
 
 ---
 
-## 📸 Dashboard Preview
-(Add your dashboard screenshot here)
-
----
-
 ## 🚀 Skills Demonstrated
 - Data Visualization
 - Business Intelligence
